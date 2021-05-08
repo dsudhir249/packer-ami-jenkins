@@ -8,4 +8,4 @@ variable "vpc_name"  {}
 variable "publicsubnet" {}
 variable "Main_Routing_Table" {}
 variable "Private_Routing_Table" {}
-variable "imagename" {}
+
